@@ -17,6 +17,7 @@ body{
 #number{
     margin: auto;
     margin-top: 20px;
-    width:150px;
+    padding: 10px 15px;
+    width:190px;
     font-size: 1.5em;
 }
