@@ -18,6 +18,6 @@
         let message = "#"+ red + blue + green;
         back.style.background = message;
         num.innerHTML = "Hex: " + message;
-    },1);
+    },1000);
     
 }
